@@ -1,0 +1,22 @@
+{
+  "name": "Smooth",
+  "keywords": "smooth",
+  "description": "This library contains smoothing functions which don't require allocation",
+  "authors":
+  [
+    {
+      "name": "Andersama",
+      "maintainer": true
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Andersama/Smooth.git"
+  },
+  "version": "0.0.1",
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "headers": "Smooth.h"
+}
